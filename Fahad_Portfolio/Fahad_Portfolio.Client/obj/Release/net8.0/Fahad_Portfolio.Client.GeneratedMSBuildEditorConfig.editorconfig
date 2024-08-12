@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Fahad_Portfolio.Client
+build_property.RootNamespace = Fahad_Portfolio.Client
+build_property.ProjectDir = D:\.Net8\Portfolio_DotNet\Fahad_Portfolio\Fahad_Portfolio\Fahad_Portfolio.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\.Net8\Portfolio_DotNet\Fahad_Portfolio\Fahad_Portfolio\Fahad_Portfolio.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/CR.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/Email.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/FAS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRkFTLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/IMS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSU1TLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/KK.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS0sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/SMS.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU01TLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/Pages/WW.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV1cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.Net8/Portfolio_DotNet/Fahad_Portfolio/Fahad_Portfolio/Fahad_Portfolio.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fahad_Portfolio.props" />
+</Project>

@@ -1,0 +1,769 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Fahad_Portfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Fahad_Portfolio.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\Muhammad_Fahad_Resume (.NET Developer).pdf",
+      "PackagePath": "staticwebassets\\portfolio\\Muhammad_Fahad_Resume (.NET Developer).pdf"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\css\\style.css",
+      "PackagePath": "staticwebassets\\portfolio\\css\\style.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\Dashboard.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\img\\Dashboard.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\ProfileBG.png",
+      "PackagePath": "staticwebassets\\portfolio\\img\\ProfileBG.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\bg-header.png",
+      "PackagePath": "staticwebassets\\portfolio\\img\\bg-header.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\bg-icon.png",
+      "PackagePath": "staticwebassets\\portfolio\\img\\bg-icon.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\profile.png",
+      "PackagePath": "staticwebassets\\portfolio\\img\\profile.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-4.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-5.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\project-6.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\project-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\js\\main.js",
+      "PackagePath": "staticwebassets\\portfolio\\js\\main.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\typed\\typed.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\typed\\typed.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\typed\\typed.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\typed\\typed.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\portfolio\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\1.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\1.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\Deisel - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\Deisel - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\PS - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\PS - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\STI - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\STI - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\Salary - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\Salary - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\Sale Tax INV - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\Sale Tax INV - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\CR\\Site Expense - c.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\CR\\Site Expense - c.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\1.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\1.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\2.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\2.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\3.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\3.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\4.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\4.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\5.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\5.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\Bill.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\Bill.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\Bulk Upload.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\Bulk Upload.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\ChartOfAccount.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\ChartOfAccount.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\Dashboard.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\Dashboard.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\FAS\\Post Unpost.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\FAS\\Post Unpost.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\IMS\\1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\IMS\\1.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\IMS\\2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\IMS\\2.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\IMS\\3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\IMS\\3.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\IMS\\4.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\IMS\\4.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\IMS\\5.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\IMS\\5.jpg"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\1.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\1.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\Home Page.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\Home Page.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\Key Compatibility.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\Key Compatibility.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\Key Info.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\Key Info.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\Login Page.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\Login Page.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\KK\\Servicem8 Client List.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\KK\\Servicem8 Client List.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\SMS\\1.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\SMS\\1.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\SMS\\2.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\SMS\\2.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\SMS\\3.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\SMS\\3.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\SMS\\4.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\SMS\\4.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\SMS\\5.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\SMS\\5.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\1.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\1.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\About.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\About.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\ContactUs.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\ContactUs.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\Find Stockist.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\Find Stockist.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\Home Page.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\Home Page.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\ManualSearch-Res.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\ManualSearch-Res.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\Mobile Landing Page.JPG",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\Mobile Landing Page.JPG"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\ProductPage-Res.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\ProductPage-Res.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\Search Manual.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\Search Manual.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\Stockist.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\Stockist.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\projects\\WW\\WiperPage.png",
+      "PackagePath": "staticwebassets\\portfolio\\projects\\WW\\WiperPage.png"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\.Net8\\Portfolio_DotNet\\Fahad_Portfolio\\Fahad_Portfolio\\Fahad_Portfolio\\wwwroot\\portfolio\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\portfolio\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Fahad_Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Fahad_Portfolio.props",
+      "PackagePath": "build\\Fahad_Portfolio.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Fahad_Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Fahad_Portfolio.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Fahad_Portfolio.props",
+      "PackagePath": "buildTransitive\\Fahad_Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
